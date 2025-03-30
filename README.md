@@ -1,1 +1,1 @@
-# tic-tac-toe
+#stone-paper-scissors
